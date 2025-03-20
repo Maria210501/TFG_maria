@@ -11,7 +11,6 @@ import sys
 import json
 import os
 from itertools import combinations
-import ps
 
 # ========================================
 # Functions
